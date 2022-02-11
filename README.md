@@ -2,4 +2,4 @@
 
 ## Getting started
 
-## Dataset retail_db
+Dataset retail_db
