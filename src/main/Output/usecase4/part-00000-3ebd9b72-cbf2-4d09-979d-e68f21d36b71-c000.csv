@@ -1,0 +1,34 @@
+category_id,category_department_id,category_name,category_revenue
+2,2,Soccer,1094.88
+3,2,Baseball & Softball,3214.41
+4,2,Basketball,1299.98
+5,2,Lacrosse,1299.69
+6,2,Tennis & Racquet,1124.75
+7,2,Hockey,1433.0
+9,3,Cardio Equipment,133156.77
+10,3,Strength Training,3388.96
+11,3,Fitness Accessories,1509.73
+12,3,Boxing & MMA,3998.46
+13,3,Electronics,4074.83
+16,3,As Seen on  TV!,399.96
+17,4,Cleats,152374.72
+18,4,Men's Footwear,107631.72
+24,5,Women's Apparel,114800.0
+26,5,Girls' Apparel,6564.85
+29,5,Shop By Sport,40090.24
+30,6,Men's Golf Clubs,1974.83
+31,6,Women's Golf Clubs,279.97
+32,6,Golf Apparel,1299.67
+33,6,Golf Shoes,4869.0
+34,6,Golf Bags & Carts,509.97
+35,6,Golf Gloves,3994.07
+36,6,Golf Balls,2754.44
+37,6,Electronics,9261.72
+38,6,Kids' Golf Clubs,6416.55
+40,6,Accessories,4423.23
+41,6,Trade-In,2364.96
+43,7,Camping & Hiking,148190.12
+44,7,Hunting & Shooting,1784.61
+45,7,Fishing,250787.46
+46,7,Indoor/Outdoor Games,100309.86
+48,7,Water Sports,113544.33
